@@ -1,0 +1,8 @@
+<config>
+	<templateDir></templateDir>
+	<targetPaths>
+		<targetPath path="">
+			<type>type</type>
+		</targetPath>
+	</targetPaths>
+</config>
